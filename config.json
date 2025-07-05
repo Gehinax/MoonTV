@@ -76,10 +76,11 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
+    },
     "liangzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源"
     }
+    
   }
 }
